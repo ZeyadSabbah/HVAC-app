@@ -1,9 +1,5 @@
 absl-py==0.9.0
 alabaster==0.7.12
-anaconda-client==1.7.2
-anaconda-navigator==1.9.7
-anaconda-project==0.9.1
-argon2-cffi==20.1.0
 asn1crypto==1.4.0
 astor==0.8.1
 astroid==2.2.5
